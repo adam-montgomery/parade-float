@@ -1899,7 +1899,7 @@
     </Element>
     <Element type="model" name="Flake01">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="6550" endTime="18000" palette="18"/>
+        <Effect ref="50" name="Twinkle" startTime="6550" endTime="18000" palette="18"/>
         <Effect ref="50" name="Twinkle" id="1" startTime="19200" endTime="30650" palette="1"/>
         <Effect ref="0" name="On" id="2" startTime="71300" endTime="72850" palette="11"/>
         <Effect ref="0" name="On" id="3" startTime="77600" endTime="79200" palette="11"/>
