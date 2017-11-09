@@ -46,7 +46,7 @@
   </models>
   <effects version="0006"/>
   <views>
-    <view name="Right Side View" models="RS-All,RS-Trees  Canes,RS-Trees,RS-Canes,RS-Arches,RS-Flakes,RS-PixelPoles"/>
+    <view name="Top" models="RS-Trees  Canes,RS-Trees,RS-Canes,RS-PixelPoles"/>
   </views>
   <palettes/>
   <modelGroups>
