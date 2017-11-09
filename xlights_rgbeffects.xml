@@ -45,7 +45,9 @@
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm1="3" parm2="32" arc="180" name="Arches01" ControllerConnection="WS2811:3" X1="0.261718" Y1="0.029166" X2="0.653124" Y2="0.025000" Height="1.000000" Angle="0" versionNumber="1" StartChannel="#192.168.1.105:4:1"/>
   </models>
   <effects version="0006"/>
-  <views/>
+  <views>
+    <view name="Right Side View" models="RS-All,RS-Trees  Canes,RS-Trees,RS-Canes,RS-Arches,RS-Flakes,RS-PixelPoles"/>
+  </views>
   <palettes/>
   <modelGroups>
     <modelGroup selected="0" name="RS-Trees" models="Tree01,Tree02,Tree03" GridSize="400" layout="minimalGrid" LayoutGroup="Default"/>
