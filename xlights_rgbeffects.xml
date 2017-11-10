@@ -47,6 +47,7 @@
   <effects version="0006"/>
   <views>
     <view name="Top" models="RS-Trees  Canes,RS-Trees,RS-Canes,RS-PixelPoles"/>
+    <view name="Side" models="RS-Arches,RS-Flakes,RS-Trees  Canes"/>
   </views>
   <palettes/>
   <modelGroups>
