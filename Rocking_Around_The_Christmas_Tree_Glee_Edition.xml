@@ -1440,9 +1440,9 @@
         <Effect ref="1" name="Morph" id="1" startTime="44550" endTime="45400" palette="1"/>
         <Effect ref="2" name="Morph" id="2" startTime="47550" endTime="48050" palette="2"/>
         <Effect ref="8" name="Twinkle" id="3" startTime="75000" endTime="88500" palette="3"/>
-        <Effect ref="7" name="Garlands" id="7" startTime="95250" endTime="98600" palette="4"/>
-        <Effect ref="1" name="Morph" id="8" startTime="98600" endTime="99450" palette="1"/>
-        <Effect ref="2" name="Morph" id="9" startTime="101600" endTime="102100" palette="2"/>
+        <Effect ref="7" name="Garlands" id="4" startTime="95250" endTime="98600" palette="4"/>
+        <Effect ref="1" name="Morph" id="5" startTime="98600" endTime="99450" palette="1"/>
+        <Effect ref="2" name="Morph" id="6" startTime="101600" endTime="102100" palette="2"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="RS-Arches">
@@ -1466,10 +1466,10 @@
       <EffectLayer>
         <Effect ref="18" name="SingleStrand" startTime="7350" endTime="20850" palette="5"/>
         <Effect ref="18" name="SingleStrand" id="1" startTime="20850" endTime="34350" palette="1"/>
-        <Effect ref="18" name="SingleStrand" id="3" startTime="47950" endTime="61450" palette="5"/>
-        <Effect ref="18" name="SingleStrand" id="4" startTime="61450" endTime="74950" palette="1"/>
-        <Effect ref="18" name="SingleStrand" id="5" startTime="101950" endTime="115450" palette="5"/>
-        <Effect ref="18" name="SingleStrand" id="6" startTime="115450" endTime="125700" palette="1"/>
+        <Effect ref="18" name="SingleStrand" id="2" startTime="47950" endTime="61450" palette="5"/>
+        <Effect ref="18" name="SingleStrand" id="3" startTime="61450" endTime="74950" palette="1"/>
+        <Effect ref="18" name="SingleStrand" id="4" startTime="101950" endTime="115450" palette="5"/>
+        <Effect ref="18" name="SingleStrand" id="5" startTime="115450" endTime="125700" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="RS-Flakes">
@@ -1513,14 +1513,14 @@
         <Effect ref="19" name="On" startTime="134800" endTime="136450" palette="3"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="1" name="Morph" id="1" startTime="129050" endTime="129900" palette="5"/>
-        <Effect ref="21" name="Morph" id="2" startTime="129900" endTime="130750" palette="1"/>
-        <Effect ref="22" name="Morph" id="3" startTime="130750" endTime="131550" palette="5"/>
-        <Effect ref="23" name="Morph" id="4" startTime="131550" endTime="132350" palette="1"/>
-        <Effect ref="1" name="Morph" id="5" startTime="132350" endTime="133150" palette="5"/>
-        <Effect ref="21" name="Morph" id="6" startTime="133150" endTime="133950" palette="1"/>
-        <Effect ref="22" name="Morph" id="7" startTime="133950" endTime="134800" palette="5"/>
-        <Effect ref="24" name="Twinkle" id="8" startTime="134800" endTime="136450" palette="3"/>
+        <Effect ref="1" name="Morph" startTime="129050" endTime="129900" palette="5"/>
+        <Effect ref="21" name="Morph" id="1" startTime="129900" endTime="130750" palette="1"/>
+        <Effect ref="22" name="Morph" id="2" startTime="130750" endTime="131550" palette="5"/>
+        <Effect ref="23" name="Morph" id="3" startTime="131550" endTime="132350" palette="1"/>
+        <Effect ref="1" name="Morph" id="4" startTime="132350" endTime="133150" palette="5"/>
+        <Effect ref="21" name="Morph" id="5" startTime="133150" endTime="133950" palette="1"/>
+        <Effect ref="22" name="Morph" id="6" startTime="133950" endTime="134800" palette="5"/>
+        <Effect ref="24" name="Twinkle" id="7" startTime="134800" endTime="136450" palette="3"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="PixelPole01">
@@ -1555,21 +1555,21 @@
         <Effect ref="33" name="On" id="14" startTime="46250" endTime="46650" palette="0"/>
         <Effect ref="31" name="SingleStrand" id="15" startTime="48050" endTime="61500" palette="1"/>
         <Effect ref="31" name="SingleStrand" id="16" startTime="61500" endTime="75000" palette="3"/>
-        <Effect ref="32" name="Marquee" id="18" startTime="88500" endTime="95250" palette="5"/>
-        <Effect ref="33" name="On" id="19" startTime="100300" endTime="100700" palette="0"/>
-        <Effect ref="31" name="SingleStrand" id="20" startTime="102050" endTime="113850" palette="4"/>
-        <Effect ref="9" name="VU Meter" id="21" startTime="113850" endTime="115550" palette="3"/>
-        <Effect ref="34" name="SingleStrand" id="22" startTime="115550" endTime="125700" palette="0"/>
+        <Effect ref="32" name="Marquee" id="17" startTime="88500" endTime="95250" palette="5"/>
+        <Effect ref="33" name="On" id="18" startTime="100300" endTime="100700" palette="0"/>
+        <Effect ref="31" name="SingleStrand" id="19" startTime="102050" endTime="113850" palette="4"/>
+        <Effect ref="9" name="VU Meter" id="20" startTime="113850" endTime="115550" palette="3"/>
+        <Effect ref="34" name="SingleStrand" id="21" startTime="115550" endTime="125700" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="30" name="On" startTime="7400" endTime="20850" palette="8"/>
         <Effect ref="30" name="On" id="1" startTime="20850" endTime="34400" palette="0"/>
         <Effect ref="30" name="On" id="2" startTime="48050" endTime="61500" palette="8"/>
         <Effect ref="30" name="On" id="3" startTime="61500" endTime="75000" palette="0"/>
-        <Effect ref="30" name="On" id="5" startTime="102050" endTime="115500" palette="0"/>
-        <Effect ref="30" name="On" id="6" startTime="115500" endTime="125700" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="7" startTime="125700" endTime="126500" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="8" startTime="127350" endTime="128200" palette="3"/>
+        <Effect ref="30" name="On" id="4" startTime="102050" endTime="115500" palette="0"/>
+        <Effect ref="30" name="On" id="5" startTime="115500" endTime="125700" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="6" startTime="125700" endTime="126500" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="7" startTime="127350" endTime="128200" palette="3"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree02">
@@ -1592,22 +1592,22 @@
         <Effect ref="33" name="On" id="15" startTime="46650" endTime="47100" palette="0"/>
         <Effect ref="31" name="SingleStrand" id="16" startTime="48050" endTime="61500" palette="1"/>
         <Effect ref="31" name="SingleStrand" id="17" startTime="61500" endTime="75000" palette="3"/>
-        <Effect ref="32" name="Marquee" id="19" startTime="88500" endTime="95250" palette="5"/>
-        <Effect ref="33" name="On" id="20" startTime="99850" endTime="100300" palette="0"/>
-        <Effect ref="33" name="On" id="21" startTime="100700" endTime="101150" palette="0"/>
-        <Effect ref="31" name="SingleStrand" id="22" startTime="102050" endTime="113850" palette="4"/>
-        <Effect ref="9" name="VU Meter" id="23" startTime="113850" endTime="115550" palette="3"/>
-        <Effect ref="34" name="SingleStrand" id="24" startTime="115550" endTime="125700" palette="0"/>
+        <Effect ref="32" name="Marquee" id="18" startTime="88500" endTime="95250" palette="5"/>
+        <Effect ref="33" name="On" id="19" startTime="99850" endTime="100300" palette="0"/>
+        <Effect ref="33" name="On" id="20" startTime="100700" endTime="101150" palette="0"/>
+        <Effect ref="31" name="SingleStrand" id="21" startTime="102050" endTime="113850" palette="4"/>
+        <Effect ref="9" name="VU Meter" id="22" startTime="113850" endTime="115550" palette="3"/>
+        <Effect ref="34" name="SingleStrand" id="23" startTime="115550" endTime="125700" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="30" name="On" startTime="7400" endTime="20850" palette="8"/>
         <Effect ref="30" name="On" id="1" startTime="20850" endTime="34400" palette="0"/>
         <Effect ref="30" name="On" id="2" startTime="48050" endTime="61500" palette="8"/>
         <Effect ref="30" name="On" id="3" startTime="61500" endTime="75000" palette="0"/>
-        <Effect ref="30" name="On" id="5" startTime="102050" endTime="115500" palette="0"/>
-        <Effect ref="30" name="On" id="6" startTime="115500" endTime="125700" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="7" startTime="125700" endTime="126500" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="8" startTime="127350" endTime="128200" palette="3"/>
+        <Effect ref="30" name="On" id="4" startTime="102050" endTime="115500" palette="0"/>
+        <Effect ref="30" name="On" id="5" startTime="115500" endTime="125700" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="6" startTime="125700" endTime="126500" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="7" startTime="127350" endTime="128200" palette="3"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree03">
@@ -1630,22 +1630,22 @@
         <Effect ref="33" name="On" id="15" startTime="47100" endTime="47650" palette="0"/>
         <Effect ref="31" name="SingleStrand" id="16" startTime="48050" endTime="61500" palette="1"/>
         <Effect ref="31" name="SingleStrand" id="17" startTime="61500" endTime="75000" palette="3"/>
-        <Effect ref="32" name="Marquee" id="19" startTime="88500" endTime="95250" palette="5"/>
-        <Effect ref="33" name="On" id="20" startTime="99350" endTime="99850" palette="0"/>
-        <Effect ref="33" name="On" id="21" startTime="101150" endTime="101700" palette="0"/>
-        <Effect ref="31" name="SingleStrand" id="22" startTime="102050" endTime="113850" palette="4"/>
-        <Effect ref="9" name="VU Meter" id="23" startTime="113850" endTime="115550" palette="3"/>
-        <Effect ref="34" name="SingleStrand" id="24" startTime="115550" endTime="125700" palette="0"/>
+        <Effect ref="32" name="Marquee" id="18" startTime="88500" endTime="95250" palette="5"/>
+        <Effect ref="33" name="On" id="19" startTime="99350" endTime="99850" palette="0"/>
+        <Effect ref="33" name="On" id="20" startTime="101150" endTime="101700" palette="0"/>
+        <Effect ref="31" name="SingleStrand" id="21" startTime="102050" endTime="113850" palette="4"/>
+        <Effect ref="9" name="VU Meter" id="22" startTime="113850" endTime="115550" palette="3"/>
+        <Effect ref="34" name="SingleStrand" id="23" startTime="115550" endTime="125700" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="30" name="On" startTime="7400" endTime="20850" palette="8"/>
         <Effect ref="30" name="On" id="1" startTime="20850" endTime="34400" palette="0"/>
         <Effect ref="30" name="On" id="2" startTime="48050" endTime="61500" palette="8"/>
         <Effect ref="30" name="On" id="3" startTime="61500" endTime="75000" palette="0"/>
-        <Effect ref="30" name="On" id="5" startTime="102050" endTime="115500" palette="0"/>
-        <Effect ref="30" name="On" id="6" startTime="115500" endTime="125700" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="7" startTime="125700" endTime="126500" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="8" startTime="127350" endTime="128200" palette="3"/>
+        <Effect ref="30" name="On" id="4" startTime="102050" endTime="115500" palette="0"/>
+        <Effect ref="30" name="On" id="5" startTime="115500" endTime="125700" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="6" startTime="125700" endTime="126500" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="7" startTime="127350" endTime="128200" palette="3"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="CaneLeft01">
@@ -1654,7 +1654,7 @@
         <Effect ref="36" name="VU Meter" id="1" startTime="20850" endTime="34400" palette="3"/>
         <Effect ref="33" name="On" id="2" startTime="46250" endTime="46650" palette="0"/>
         <Effect ref="36" name="VU Meter" id="3" startTime="61450" endTime="75000" palette="3"/>
-        <Effect ref="33" name="On" id="5" startTime="100300" endTime="100700" palette="0"/>
+        <Effect ref="33" name="On" id="4" startTime="100300" endTime="100700" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="30" name="On" startTime="0" endTime="1400" palette="7"/>
@@ -1670,10 +1670,10 @@
         <Effect ref="37" name="On" id="10" startTime="20850" endTime="34400" palette="0"/>
         <Effect ref="37" name="On" id="11" startTime="48050" endTime="61450" palette="3"/>
         <Effect ref="37" name="On" id="12" startTime="61500" endTime="75000" palette="4"/>
-        <Effect ref="37" name="On" id="14" startTime="102050" endTime="115450" palette="4"/>
-        <Effect ref="37" name="On" id="15" startTime="115500" endTime="125700" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="16" startTime="126500" endTime="127350" palette="3"/>
-        <Effect ref="35" name="Twinkle" id="17" startTime="128200" endTime="129050" palette="3"/>
+        <Effect ref="37" name="On" id="13" startTime="102050" endTime="115450" palette="4"/>
+        <Effect ref="37" name="On" id="14" startTime="115500" endTime="125700" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="15" startTime="126500" endTime="127350" palette="3"/>
+        <Effect ref="35" name="Twinkle" id="16" startTime="128200" endTime="129050" palette="3"/>
       </EffectLayer>
       <SubModelEffectLayer name="Cane Horz 01">
         <Effect ref="38" name="SingleStrand" startTime="7400" endTime="20850" palette="4"/>
@@ -1681,9 +1681,9 @@
         <Effect ref="32" name="Marquee" id="2" startTime="34400" endTime="41100" palette="5"/>
         <Effect ref="38" name="SingleStrand" id="3" startTime="48050" endTime="61500" palette="4"/>
         <Effect ref="38" name="SingleStrand" id="4" startTime="61500" endTime="75000" palette="3"/>
-        <Effect ref="32" name="Marquee" id="6" startTime="88500" endTime="95250" palette="5"/>
-        <Effect ref="38" name="SingleStrand" id="7" startTime="102050" endTime="115500" palette="3"/>
-        <Effect ref="39" name="SingleStrand" id="8" startTime="115500" endTime="125700" palette="4"/>
+        <Effect ref="32" name="Marquee" id="5" startTime="88500" endTime="95250" palette="5"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="102050" endTime="115500" palette="3"/>
+        <Effect ref="39" name="SingleStrand" id="7" startTime="115500" endTime="125700" palette="4"/>
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="CaneLeft02">
@@ -1792,7 +1792,7 @@
       </EffectLayer>
     </Element>
   </ElementEffects>
-  <lastView>2</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
